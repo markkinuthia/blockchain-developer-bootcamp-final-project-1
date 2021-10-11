@@ -1,10 +1,38 @@
 # blockTitle: Combating Inefficiencies in Land Registry in Africa
 
+<!-- TOC -->
+
+- [blockTitle: Combating Inefficiencies in Land Registry in Africa](#blocktitle-combating-inefficiencies-in-land-registry-in-africa)
+  - [Summary](#summary)
+  - [Background and Motivation](#background-and-motivation)
+  - [Goals](#goals)
+  - [Non-Goals](#non-goals)
+  - [Plan](#plan)
+    - [Example Workflow](#example-workflow)
+    - [Engineering Plan](#engineering-plan)
+    - [The Frontend Was Scaffolded With Create React App](#the-frontend-was-scaffolded-with-create-react-app)
+      - [Available Scripts](#available-scripts)
+        - [yarn start](#yarn-start)
+        - [yarn test](#yarn-test)
+        - [yarn build](#yarn-build)
+        - [yarn eject](#yarn-eject)
+        - [Advanced Configuration](#advanced-configuration)
+        - [Deployment](#deployment)
+        - [yarn build fails to minify](#yarn-build-fails-to-minify)
+  - [Measuring Impact](#measuring-impact)
+  - [Security, Privacy, and Risks](#security-privacy-and-risks)
+  - [Other Considerations](#other-considerations)
+  - [Milestones](#milestones)
+  - [Open Questions](#open-questions)
+
+<!-- /TOC -->
+
 ## Summary
 
 `blockTitle` is a dApp to register land titles in African nations via private blockchains.
 
 @author: Sandra Abago
+
 @license: MIT License
 
 ## Background and Motivation
